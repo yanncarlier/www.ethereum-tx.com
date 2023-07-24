@@ -25,3 +25,46 @@ Launching and distributing an Ethereum ERC-20 token to guarantee investment for 
 12. **Compliance with KYC/AML:** Implement a Know Your Customer (KYC) and Anti-Money Laundering (AML) process to ensure regulatory compliance and protect your project from potential legal issues.
 
 Remember that launching and distributing an ERC-20 token is just the beginning. Sustaining investor interest and delivering on your project's promises are equally important for long-term success. Always prioritize transparency, security, and community engagement to create a solid foundation for your project and attract continuous investment.
+
+
+
+
+
+https://labs.perplexity.ai/
+
+Please give me a table with numbers for: Token allocation: Determine the percentage of tokens allocated to different groups, such as founders, team members, advisors, or the public. Vesting periods: Implement vesting periods to ensure that tokens are earned gradually over time, rather than all at once, to promote long-term commitment and stability
+
+
+
+Certainly! Here's a sample table illustrating a token allocation plan with vesting periods for different groups:
+
+| Group | Tokens Allocated (%) | Vesting Period (Months) |
+
+| Founders | 10% | 12 |
+
+| Team Members | 20% | 24 |
+
+| Advisors | 5% | 36 |
+
+| Public | 65% | - |
+
+Note: The vesting period refers to the amount of time after which the tokens become fully available to the recipient. In this example, the founders, team members, and advisors receive a portion of their tokens upfront (12 months, 24 months, and 36 months respectively), while the remaining tokens are distributed over a longer period of time to encourage long-term commitment and stability. The public receives their tokens immediately, but with a clause that requires them to hold onto the tokens for a certain period of time (e.g., 6 months) to prevent immediate selling and price volatility.
+
+This table is just a sample and can be modified based on the specific needs and goals of the project. It's important to note that the exact token allocation and vesting schedule will depend on various factors, including the project's stage of development, the role of each group, and the desired level of decentralization.
+
+It's also worth mentioning that the vesting schedule can be designed to incentivize desired behaviors, such as continued contribution to the project or maintenance of a certain level of ownership. For example, the vesting schedule could include milestones that must be met in order for the tokens to
+
+
+
+
+
+for a total of 21,000,000 tokens can you please calculate the numbers according to this table: | Group | Tokens Allocated (%) | Vesting Period (Months) | | Founders | 10% | 12 | | Team Members | 20% | 24 | | Advisors | 5% | 36 | | Public | 65% | - |
+
+
+
+Total tokens allocated to founders = 10% x 21,000,000 = 2,100,000
+Total tokens allocated to team members = 20% x 21,000,000 = 4,200,000
+Total tokens allocated to advisors = 5% x 21,000,000 = 1,050,000
+Total tokens allocated to public = 65% x 21,000,000 = 13,900,000
+
+Note that there is no vesting period specified for the public token allocation, so these tokens will be immediately available upon issuance.
