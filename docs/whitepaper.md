@@ -1,4 +1,4 @@
-## **Exploring the Future of Android Technologies - Gamification: Artificial Intelligent and Emotion Androids**
+## **Exploring the Future of Android Technologies - Gamification: Artificial intelligence android agents with emotions**
 
 ### **Abstract**
 
