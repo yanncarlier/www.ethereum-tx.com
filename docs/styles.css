@@ -1,0 +1,50 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+}
+
+/* Header Styles */
+header, .section-subtitle, .section-title, .image {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+    color: #ff9900;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0;
+    text-align: center;
+}
+
+/* Container Styles */
+.container, .chat-container {
+    background-color: #292929;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.text {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+/* Rest of your CSS styles here... */
