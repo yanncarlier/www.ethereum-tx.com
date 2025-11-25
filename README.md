@@ -24,14 +24,15 @@ This repo and README now exist purely for transparency and as a personal archive
 | Contract          | [0xae6D4Def6f1D46a4A7AC257B02bC9216D13dD8e6](https://etherscan.io/address/0xae6d4def6f1d46a4a7ac257b02bc9216d13dd8e6) |
 | Uniswap V2 Pair   | Very low liquidity (~$70)          |
 
-## Original (Unfinished) Ideas
+## Original (Unfinished) Idea
 
-These were the concepts I was playing with before shelving the project:
+This is the concept I was exploring before the project was shelved:Emotions Token Exchange (ETX) – A token designed for the emerging AI economy, specifically to represent and exchange “personality” or emotional value.The vision was to create a system where AI agents, bots, or digital personalities could earn, spend, and trade ETX as a form of emotional or experiential currency. Examples of potential use cases included:
 
-- Emotions Token Exchange for AI economy / personality
-- Potential future integration with L2s to reward cross-chain relayers
+- Tipping AI companions for meaningful interactions
+- Rewarding cross-chain relayers or data providers with “emotional weight”
+- Enabling AI-to-AI micro-transactions based on sentiment, empathy, or engagement quality
 
-None of the above were ever implemented beyond basic thoughts.
+A significant amount of background work, writing, and prototype content was developed around this idea (mechanics, tokenomics sketches, personality scoring concepts, etc.), but none of it has been published online.The deployed contract you see today was originally just a placeholder — a simple ERC-20 minted during early testing — while the real vision remained off-chain and unfinished.
 
 ## Current Status (November 2025)
 
