@@ -55,3 +55,10 @@ If for some bizarre reason anyone ever wants to revive or fork this idea, feel f
 - Uniswap Pool: https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xae6D4Def6f1D46a4A7AC257B02bC9216D13dD8e6
 
 That’s it. Thanks for stumbling across this little piece of crypto history.
+
+Related project:
+
+https://www.ethereum-tx.com/EmotionsTokenExchange  
+
+
+
